@@ -61,7 +61,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
                   email = value;
                 },
                 decoration: InputDecoration(
-                  hintText: "Enter you Email",
+                  hintText: "Enter your Email",
                   labelText: "Email",
                   contentPadding:
                       EdgeInsets.symmetric(vertical: 10, horizontal: 20),
@@ -97,7 +97,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
                   password = value;
                 },
                 decoration: InputDecoration(
-                  hintText: "Enter you password",
+                  hintText: "Enter your password",
                   labelText: "Password",
                   contentPadding:
                       EdgeInsets.symmetric(vertical: 10, horizontal: 20),

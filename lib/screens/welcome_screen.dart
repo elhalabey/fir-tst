@@ -29,10 +29,10 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
 /*                     Image(
                       image: AssetImage('images/logo.png'),
                     ), */
-/*                     Container(
+                    Container(
                       height: 180,
                       child: Image.asset('images/logo.png'),
-                    ), */
+                    ),
                     Text(
                       'Message me',
                       style: TextStyle(
