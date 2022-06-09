@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "35933528017",
+    "project_id": "messageme-app-39008",
+    "storage_bucket": "messageme-app-39008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35933528017:android:df709f1e40be334dbe0af0",
+        "android_client_info": {
+          "package_name": "at.alkhatib.messageme_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35933528017-l41uq2856kc065sriluig93i7nttsqp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6dQqm51QqLTiyEpdWTvWH1CrIRbO-6mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35933528017-l41uq2856kc065sriluig93i7nttsqp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "35933528017-1jo0mij8krl6tdb101q836piidg2hr0l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "at.alkhatib.messagemeApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35933528017:android:928d1508b044c634be0af0",
+        "android_client_info": {
+          "package_name": "com.halaby.messageme_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35933528017-l41uq2856kc065sriluig93i7nttsqp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6dQqm51QqLTiyEpdWTvWH1CrIRbO-6mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35933528017-l41uq2856kc065sriluig93i7nttsqp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "35933528017-1jo0mij8krl6tdb101q836piidg2hr0l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "at.alkhatib.messagemeApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
